@@ -1,0 +1,3 @@
+'atom-text-editor.vim-mode-plus.visual-mode':
+  '+ o': 'boxdraw:draw1'
+  '+ O': 'boxdraw:draw2'

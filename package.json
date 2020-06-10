@@ -6,7 +6,8 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "boxdraw:toggle"
+    "atom-workspace": "boxdraw:draw1",
+    "atom-workspace": "boxdraw:draw2"
   },
   "repository": "https://github.com/atom/boxdraw",
   "license": "MIT",
