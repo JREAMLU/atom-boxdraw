@@ -5,10 +5,6 @@
   "description": "An ASCII box drawing plugin for Atom",
   "keywords": [
   ],
-  "activationCommands": {
-    "atom-workspace": "boxdraw:draw1",
-    "atom-workspace": "boxdraw:draw2"
-  },
   "repository": "https://github.com/atom/boxdraw",
   "license": "MIT",
   "engines": {
