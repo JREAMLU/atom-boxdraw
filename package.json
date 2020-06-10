@@ -1,0 +1,18 @@
+{
+  "name": "boxdraw",
+  "main": "./lib/boxdraw",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "boxdraw:toggle"
+  },
+  "repository": "https://github.com/atom/boxdraw",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
